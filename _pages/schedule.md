@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Schedule"
 layout: gridlay
 sitemap: false
-permalink: /about/
+permalink: /schedule/
 ---
 
 ## About 
