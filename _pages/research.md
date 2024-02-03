@@ -17,7 +17,7 @@ img{
   overflow:hidden;
   text-align:center;
   display: table-cell;
-  background: white;
+  background: green;
   border-radius: 20px;
   height: auto;
 }

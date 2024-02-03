@@ -4,7 +4,6 @@ layout: homelay
 sitemap: false
 permalink: /
 ---
-
 <style>
 img{
   border-radius: 10px;
@@ -34,9 +33,20 @@ iframe {
 }
 
 #about-me {
-    margin-bottom: 100px
+    margin-bottom: 100px;
+}
+#schedule {
+    margin-bottom: 100px;
+    
+}
+#sponsors {
+    margin-bottom: 100px;
+#register {
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 </style>
+
 
 <div class="container">
 <div class="row" style="text-align: center;">
@@ -45,19 +55,27 @@ iframe {
 </div>
 <br/>
 
+<div style="text-align: center;">
+<h2> It's Time to Build the Scientific Tech Stack </h2>
+</div>
+<div id="register" style="text-align: center;">
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+</div>
 
-## Welcome!
 <div id="about-me">
-  Scientific Coordination Infrastructure and Operating Systems (SciOS) 2024 is a partnership between [Protocol Labs](protocol.io) and [DeSci Labs](desci.com) and aims to Bring together Open Science infrastructure developers to work towards next generation scientific standards and tools that promote FAIR, collaborative, open science.
+
+  Scientific Coordination Infrastructure and Operating Systems (SciOS) 2024 represents an ambitious collaboration forged by the alliance of [Protocol Labs](protocol.io) and [DeSci Labs](desci.com). Our mission is to cultivate a cohesive environment that unites the minds of Open Science infrastructure developers. Together, we strive towards defining and shaping the next generation of scientific standards and tools.
+  
+  Our vision is rooted in the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) practices, championing collaborative efforts and fostering an era of open science. At the heart of SciOS is the commitment to unraveling the complexities within scientific technologies. We aspire to be a crucible where diverse minds converge to unravel the intricacies of scientific technology, fostering a generative atmosphere that eradicates duplicative endeavors.
+  
+  Our purpose extends beyond mere collaboration; it is a call to initiate meaningful conversations. By doing so, we aim to lay the groundwork for a seamlessly interconnected scientific infrastructure. SciOS beckons the scientific community to join hands, transcend disciplinary boundaries, and collectively forge the future of interconnected scientific advancements. Together, we build not just tools, but bridges that link the varied facets of scientific infrastructure, ensuring a united and progressive journey into the realms of science and discovery.
 
 </div>
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0" target="_blank"><button class="btn btn-info btn-sm">Register to SciOS!</button></a>
 
 
-
-
-## Schedule
-#### Day one, February 26th 
+<div id=schedule>
+<h2> Schedule </h2>
+<h4> Day one, February 26th </h4>
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
@@ -93,7 +111,8 @@ Description coming soon.
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <h4><b>Compute over Data</b></h4>
-<a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+<a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a>
+
 <b>Track Lead:</b>
 <i>David Aronchick</i>
 
@@ -122,9 +141,10 @@ Coming soon.
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
 <h4><b>Open State Data Networks</b></h4>
-<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
+<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">Coming soon</button></a>
+
 <b>Track Leads:  </b>
-<i> DeSci Labs/i>
+<i> Coming Soon </i>
 
 Coming soon. 
 </div>
@@ -161,9 +181,20 @@ Coming Soon
 </div>
 </div>
 
-<div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+</div>
+
+<div id=sponsors>
+## Sponsors
+<div class="jumbotron" style="background-color: whitesmoke;">
+<div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
+ </div> 
+
+<div id="register" style="text-align: center;">
+<a href="2024SciOS_Funding.pdf" target="_blank"><button class="btn btn-success btn-lg">Fund this Initiative</button></a>
 </div>
+ <p>Sponsors help us to make this event great, including setting up the event, providing ongoing management of the work products that come out of the sessions and building</p>
+</div>
+
+  
