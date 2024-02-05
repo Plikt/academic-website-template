@@ -64,12 +64,10 @@ iframe {
 
 <div id="about-me">
 
-  Scientific Coordination Infrastructure and Operating Systems (SciOS) 2024 represents an ambitious collaboration forged by the alliance of [Protocol Labs](protocol.io) and [DeSci Labs](desci.com). Our mission is to cultivate a cohesive environment that unites the minds of Open Science infrastructure developers. Together, we strive towards defining and shaping the next generation of scientific standards and tools.
   
-  Our vision is rooted in the principles of FAIR (Findable, Accessible, Interoperable, and Reusable) practices, championing collaborative efforts and fostering an era of open science. At the heart of SciOS is the commitment to unraveling the complexities within scientific technologies. We aspire to be a crucible where diverse minds converge to unravel the intricacies of scientific technology, fostering a generative atmosphere that eradicates duplicative endeavors.
-  
-  Our purpose extends beyond mere collaboration; it is a call to initiate meaningful conversations. By doing so, we aim to lay the groundwork for a seamlessly interconnected scientific infrastructure. SciOS beckons the scientific community to join hands, transcend disciplinary boundaries, and collectively forge the future of interconnected scientific advancements. Together, we build not just tools, but bridges that link the varied facets of scientific infrastructure, ensuring a united and progressive journey into the realms of science and discovery.
+  The Scientific Coordination Infrastructure and Operating Systems Workshops (SciOS) is a 4 day event bringing together open science deep infrastructure technicians and engineers to collaborate on shared solutions, standards, and paths forward for a technology-based scientific ecosystem that enables FAIR, collaborative, AI-enhanced, open science practices.
 
+  SciOS is organized as a collaboration between [Protocol Labs](protocol.io), [DeSci Labs](desci.com), and the projects and organizations that take lead on tracks and workshops.
 </div>
 
 
