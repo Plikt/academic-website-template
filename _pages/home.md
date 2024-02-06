@@ -164,6 +164,7 @@ Coming Soon.
 <b>Lead</b> <br/><a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a> 
 <br/>
 <b>Participants</b><br/>
+<a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">Protocol Labs</button></a>
 <a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
 
 </div>
@@ -197,9 +198,10 @@ Coming soon.
 <a href="https://gridcoin.us/" target="_blank"><button class="btn btn-info btn-sm">gridcoin</button></a>
 <br/>
 <b>Participants</b><br/>
-<a href="" target="_blank"><button class="btn btn-info btn-sm">Lateral</button></a>
-<a href="https://desci.com/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>
-<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Open Observer</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
+<a href="https://www.opensource.observer/" target="_blank"><button class="btn btn-info btn-sm">Open Source Observer</button></a>button></a>
+<a href="https://hypercerts.org/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>button></a>
+
 
 </div>
 </div>
@@ -230,10 +232,12 @@ Coming soon.
 <b>Lead</b> <br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
 <br/>
 <b>Participants</b><br/>
-<a href="" target="_blank"><button class="btn btn-info btn-sm">DeSci Labs</button></a>
-<a href="https://desci.com/" target="_blank"><button class="btn btn-info btn-sm">Intuition Systems</button></a>
-<a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-info btn-sm">Ethereum Attestation Services</button></a>
-<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Orbis</button></a>
+<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
+<a href="https://useorbis.com/" target="_blank"><button class="btn btn-success btn-sm">Orbis</button></a>
+<a href="https://attest.sh/" target="_blank"><button class="btn btn-success btn-sm">Ethereum Attestation Service</button></a>
+<a href="https://intuition.systems/" target="_blank"><button class="btn btn-success btn-sm">Intuition.Systems</button></a>
+<a href="https://ipfs.tech/" target="_blank"><button class="btn btn-success btn-sm">IPFS</button></a>
+<a href="https://protocol.ai/" target="_blank"><button class="btn btn-success btn-sm">Protocol Labs</button></a>
 
 </div>
 </div>
@@ -267,9 +271,11 @@ Coming soon.
 <a href="" target="_blank"><button class="btn btn-success btn-sm">CoopHive</button></a>
 <br/>
 <b>Participants</b><br/>
-<a href="" target="_blank"><button class="btn btn-info btn-sm">Index Network</button></a>
-<a href="" target="_blank"><button class="btn btn-info btn-sm">Algovera</button></a>
-<a href="" target="_blank"><button class="btn btn-info btn-sm">Ronen Tamari</button></a>
+<a href="https://index.network/" target="_blank"><button class="btn btn-success btn-sm">Index Network</button></a>
+<a href="https://www.algovera.ai/" target="_blank"><button class="btn btn-success btn-sm">Algovera</button></a>
+<a href="https://www.coordination.network/" target="_blank"><button class="btn btn-info btn-sm">coordination.network</button></a>
+<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Common Sensemakers</button></a>
+
 
 </div>
 </div>
@@ -289,7 +295,7 @@ Coming soon.
 <h4><b>Mapping the Ecosystem and Hackathon</b></h4>
 
 <b>Track Leads:</b>
-<i>Jon Starr, NumFOCUS | Martin, lateral.io</i>
+<i>Jonathan Starr, NumFOCUS | Martin, lateral.io</i>
 
 <b>Time:  </b><i>1pm - 4pm</i>
 
