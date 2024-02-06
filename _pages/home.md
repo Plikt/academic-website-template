@@ -59,7 +59,7 @@ iframe {
 <h2> It's Time to Build the Scientific Tech Stack </h2>
 </div>
 <div id="register" style="text-align: center;">
-<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-success btn-lg">Register to SciOS!</button></a>
 </div>
 
 <div id="about-me">
@@ -74,19 +74,35 @@ iframe {
 <div id=schedule>
 <h2> Schedule </h2>
 <h4> Day one, February 26th </h4>
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>FAIR data and Semantic Publishing </b></h4>
-<a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
-<a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
-<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>DID and Permissions</b></h4>
 
-<b>Track Leads:  </b>
-<i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
+<b>Track Lead:</b>
+<i>Shady el Damaty, Holonym</i>
+ 
+<b>Time: </b><i>1pm-4pm</i>
 
-Description Coming soon. 
+Coming Soon.
 
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/>
+<a href="https://www.holonym.id/" target="_blank"><button class="btn btn-success btn-sm">Holonym</button></a>
+
+<b>Participants</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
+
+
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -95,26 +111,63 @@ Description Coming soon.
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>DID and Permissions</b></h4>
-<a href="https://www.holonym.id/" target="_blank"><button class="btn btn-success btn-sm">WEBSITE</button></a>
+<div class = "row">
+<div class="col-sm-8">
+<h4><b>FAIR data and Semantic Publishing</b></h4>
 
-<b>Track Lead:</b>
-<i>Shady el Damaty, Holonym</i>
+<b>Track Leads:  </b>
+<i>Erik Schultes, GoFAIR foundation | Erik Van Winkle, DeSci Labs | Ronen Tamari, Common Sensemakers</i>
+ 
+<b>Time: </b><i>9am-12pm</i>
 
-Description coming soon. 
+Coming Soon.
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-success btn-sm">GoFAIR</button></a>
+<a href="https://desci.com/" target="_blank"><button class="btn btn-success btn-sm">DeSci Labs</button></a>
+<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-success btn-sm">Common Sensemakers</button></a>
+<br/>
+<b>Participants</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
+
+
 </div>
 </div>
 </div>
+</div>
+</div>
+
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
 <h4><b>Compute over Data</b></h4>
-<a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a>
 
 <b>Track Lead:</b>
-<i>David Aronchick</i>
+<i>David Aronchick, Baccalhau</i>
 
-Description coming soon. 
+<b>Time: </b> <i>1pm-4pm</i>
+
+Coming Soon. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="https://docs.bacalhau.org/" target="_blank"><button class="btn btn-success btn-sm">Bacalhau</button></a> 
+<br/>
+<b>Participants</b><br/>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
+
+</div>
+</div>
 
 </div>
 </div>
@@ -124,61 +177,139 @@ Description coming soon.
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
 <h4><b>Funding and Incentive Design</b></h4>
-<a href="https://www.drips.network/" target="_blank"><button class="btn btn-success btn-sm">drips.network</button></a>
-<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-info btn-sm">gridcoin</button></a>
 
-<b>Track Leads:  </b>
-<i> Andrew, drips.network</i>
+<b>Track Lead:</b>
+<i>Andrew, Drips</i>
+
+<b>Time: </b><i>9am-12pm</i>
 
 Coming soon. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="https://www.drips.network/" target="_blank"><button class="btn btn-success btn-sm">drips.network</button></a>
+<a href="https://gridcoin.us/" target="_blank"><button class="btn btn-info btn-sm">gridcoin</button></a>
+<br/>
+<b>Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">Lateral</button></a>
+<a href="https://desci.com/" target="_blank"><button class="btn btn-info btn-sm">Hypercerts</button></a>
+<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Open Observer</button></a>
+
 </div>
 </div>
 </div>
+</div>
+</div>
+
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
 <h4><b>Open State Data Networks</b></h4>
-<a href="https://www.desci.com/" target="_blank"><button class="btn btn-success btn-sm">Coming soon</button></a>
 
-<b>Track Leads:  </b>
-<i> Coming Soon </i>
+<b>Track Lead:</b>
+<i>TBD</i>
+
+<b>Time: </b><i>9am-12pm</i>
 
 Coming soon. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="" target="_blank"><button class="btn btn-success btn-sm">TBD</button></a> 
+<br/>
+<b>Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">DeSci Labs</button></a>
+<a href="https://desci.com/" target="_blank"><button class="btn btn-info btn-sm">Intuition Systems</button></a>
+<a href="https://gofairfoundation.org" target="_blank"><button class="btn btn-info btn-sm">Ethereum Attestation Services</button></a>
+<a href="https://csensemakers.com/" target="_blank"><button class="btn btn-info btn-sm">Orbis</button></a>
+
+</div>
+</div>
 </div>
 </div>
 </div>
 
 #### Day Four, Febrary 29th
+
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
+<div class = "row">
+<div class="col-sm-8">
 <h4><b>AI in Open Science</b></h4>
-<a href="https://decentralized.nevermined.io/" target="_blank"><button class="btn btn-success btn-sm">Nevermined</button></a>
 
 <b>Track Leads:</b>
 <i>Don Gossen, Nevermined | Levi, CoopHive </i>
 
-Coming Soon
+<b>Time: </b><i>9am-12pm</i>
+
+Coming soon. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
+</div>
+
+<div class="col-sm-4">
+
+<b>Lead</b> <br/>
+<a href="https://decentralized.nevermined.io/" target="_blank"><button class="btn btn-success btn-sm">Nevermined</button></a> 
+<a href="" target="_blank"><button class="btn btn-success btn-sm">CoopHive</button></a>
+<br/>
+<b>Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">Index Network</button></a>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">Algovera</button></a>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">Ronen Tamari</button></a>
+
 </div>
 </div>
 </div>
+</div>
+</div>
+
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>Mapping the Ecosystem and Hack</b></h4>
-<a href="https://numfocus.org/" target="_blank"><button class="btn btn-success btn-sm">NumFOCUS</button></a>
-<a href="https://www.lateral.io/" target="_blank"><button class="btn btn-info btn-sm">Lateral</button></a>
+
+<div class = "row">
+
+<div class="col-sm-8">
+<h4><b>Mapping the Ecosystem and Hackathon</b></h4>
 
 <b>Track Leads:</b>
 <i>Jon Starr, NumFOCUS | Martin, lateral.io</i>
 
-Coming Soon
-</div>
-</div>
+<b>Time:  </b><i>1pm - 4pm</i>
+
+Coming soon. 
+
+<br/><a href="" target="_blank"><button class="btn btn-warning btn-sm">Read more</button></a> 
 </div>
 
+<div class="col-sm-4">
+
+<b>Lead</b> <br/><a href="https://numfocus.org/" target="_blank"><button class="btn btn-success btn-sm">NumFOCUS</button></a>
+<a href="https://www.lateral.io/" target="_blank"><button class="btn btn-info btn-sm">Lateral</button></a>
+<br/>
+<b>Participants</b><br/>
+<a href="" target="_blank"><button class="btn btn-info btn-sm">All above particpants!</button></a>
+<a href="https://airtable.com/apptAi2tFe7I5lDvn/shrMx9j7mKJwnxd0J" target="_blank"><button class="btn btn-info btn-sm">Sign up!</button></a>
+</div>
+</div>
+</div>
+</div>
 </div>
 
 <div id=sponsors>
